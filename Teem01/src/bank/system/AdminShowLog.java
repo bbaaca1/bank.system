@@ -1,5 +1,5 @@
 package bank.system;
 
-public class Account {
+public class AdminShowLog {
 
 }
