@@ -1,0 +1,7 @@
+11:54:44.493 [main] INFO  bank.system.BankMain - System launched
+11:54:47.912 [main] INFO  bank.system.AdminMenu - start admin authentication
+11:54:49.814 [main] INFO  bank.system.AdminMenu - admin authentication
+11:54:49.815 [main] INFO  bank.system.AdminMenu - admin login
+11:54:51.014 [main] INFO  bank.system.AdminMenu - return to main meun
+11:54:51.015 [main] ERROR bank.system.BankMain - java.lang.NumberFormatException: For input string: ""
+11:54:51.702 [main] INFO  bank.system.BankMain - End of System
